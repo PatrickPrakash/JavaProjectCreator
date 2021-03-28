@@ -11,7 +11,7 @@ createjavaproject 'filename'
 ```
 You need to include the path of this file in your environment varibales windows inorder to use it without .bat extension
 
-##Features
+## Features
 - It create a folder with the name of the project
 - It automatically generates the starter code
 
