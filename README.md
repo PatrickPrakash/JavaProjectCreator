@@ -9,7 +9,7 @@ or
 ```bash
 createjavaproject 'filename'
 ```
-You need to include the path of this file in your environment varibales windows inorder to use it without .bat extension
+You need to include the path of this file in your environment variables windows in order to use it without .bat extension
 
 ## Features
 - It create a folder with the name of the project
